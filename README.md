@@ -97,7 +97,7 @@ Model ini menerapkan konsep transparansi komputasi dengan mengeluarkan skor kont
 ## 🔮 6. Kesimpulan
 1.  Model Random Forest Classifier berhasil menyelesaikan tantangan klasifikasi multi-kelas non-linear 5 stadium penyakit jantung dengan performa generalisasi yang stabil.
 2.  Efek ketidakseimbangan dataset berhasil ditanggulangi secara algoritmik tanpa manipulasi data sintetis yang berisiko bias.
-3.  Proyek ini telah memenuhi **100% kriteria ketetapan tugas pengganti UAS** Departemen Elektro Universitas Brawijaya, mencakup penyediaan *source code* terkomentari, tautan dataset, pemenuhan kuantitas data, serta penyimpanan grafik evaluasi visual secara otomatis.
+
 
 
 
